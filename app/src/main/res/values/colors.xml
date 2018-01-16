@@ -3,4 +3,34 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!-- Colors customs to App -->
+    <color name="colorPrimaryDarkSplash">#f501579b</color>
+    <color name="colorPrimarySplash">#0277BD</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorTextSplash">#fefefe</color>
+    <color name="colorGrayLight">#f6f6f6</color>
+    <color name="colorBackgroundSplash">#0277BD</color>
+    <color name="colorButtonSignIn">#0277BD</color>
+    <color name="colorButtonSignUp">#0277BD</color>
+    <color name="colorHint">#e3ffffff</color>
+    <color name="colorTextEditText">#b3b2b2</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorTextButton">#0277BD</color>
+    <color name="colorStyleEdittext">#b401579b</color>
+    <color name="colorPrimaryToolbar">#0277BD</color>
+    <color name="colorBackgroundRegister">#fafafa</color>
+    <color name="colorHintRegister">#acacac</color>
+    <color name="colorStrokeEditText">#d2d2d2</color>
+    <color name="colorRecerNoticacaoEmail">#808080</color>
+    <color name="colorIndicadorTabsMain">#df5555</color>
+    <color name="colorIndiqueNovo">#edb742</color>
+    <color name="colorPriceItem">#00a444</color>
+    <color name="corCarrinhoVazio">#333</color>
+    <color name="colorBlackDefaut">#333</color>
+    <color name="colorDefaultRatingBar">#bababa</color>
+    <color name="colorSelectedRatingBar">#edb742</color>
+    <color name="colorSpaceApp">#dedede</color>
+    <color name="colorBlackDefault">#333</color>
+    <color name="colorRed">#df5555</color>
 </resources>

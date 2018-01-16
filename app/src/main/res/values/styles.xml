@@ -1,11 +1,21 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimarySplash</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSplash</item>
+        <item name="colorAccent">@color/colorPrimarySplash</item>
+        <item name="android:textColorPrimary">@color/colorWhite</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDarkSplash</item>
+    </style>
+
+    <!--Tema da tela de Splash-->
+    <style name="ThemeSplash" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/colorPrimarySplash</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDarkSplash</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/colorBackgroundSplash</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDarkSplash</item>
     </style>
 
 </resources>
